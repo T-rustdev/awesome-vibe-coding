@@ -6,6 +6,8 @@
 
 This list focuses on tools and workflows where AI plays a central role in the development process. Instead of traditional coding, this approach emphasizes describing ideas, iterating quickly, and trusting the process—even when you’re not sure where it’s headed.
 
+*You can find a searchable, more detailed list on [AI For Developers](https://aifordevelopers.org)*
+
 ## Table of Contents
 
 * [What is](#what-is)
