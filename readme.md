@@ -1,4 +1,4 @@
-# Awesome Vibe Coding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Vibe Coding
 
 > A hand-picked collection of tools and references for building software with the help of AI—through prompts, iterations, and exploration.
 
@@ -6,7 +6,6 @@
 
 This list focuses on tools and workflows where AI plays a central role in the development process. Instead of traditional coding, this approach emphasizes describing ideas, iterating quickly, and trusting the process—even when you’re not sure where it’s headed.
 
-*You can find a searchable, more detailed list on [AI For Developers](https://aifordevelopers.org)*
 
 ## Table of Contents
 
