@@ -111,7 +111,6 @@ This list focuses on tools and workflows where AI plays a central role in the de
 ## Project Documentation
 
 * [CodeGuide](https://www.codeguide.dev/) — Tool that builds documentation for AI-built projects.
-* [CodeGuide](https://www.codeguide.dev/) 
 
 ---
 
